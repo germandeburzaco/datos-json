@@ -1,5 +1,10 @@
 {
   "nombre": "Crochet App",
-  "version": "1.0",
-  "estado": "online"
+  "version": "1.0.41",
+  "estado": "online",
+  "msj": {
+    "es": "texto en prueba desde la web",
+    "en": "test message from web",
+    "br": "mensagem de teste desd web"
+  }
 }
