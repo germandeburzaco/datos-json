@@ -2,9 +2,5 @@
   "nombre": "Crochet App",
   "version": "1.0.51",
   "estado": "online",
-  "msj": {
-    "es": "texto en prueba desde la web b2025",
-    "en": "test message from web",
-    "br": "mensagem de teste desd web"
-  }
+  "version_ahorcado": 16,
 }
